@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SOC Analyst Simulation(TryHackMe) - Investigated real-world security incidents in a simulated SOC enviroment, analysing logs, detecting threats, and responding to cyver-attacks using SIEM and EDR tools.</b>
+  
 
 
 <h2>Certifications</h2>
